@@ -46,7 +46,6 @@
   "dependencies": {
     "@comicrelief/lambda-wrapper": "^1.10.2",
     "aws-sdk": "^2.1492.0",
-    "request": "^2.88.0",
-    "request-promise": "^4.2.5"
+    "axios": "^1.9.0"
   }
 }
