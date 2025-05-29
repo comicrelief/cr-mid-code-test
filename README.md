@@ -35,7 +35,7 @@ yarn install
 To run the service locally, use the following command:
 
 ```bash
-serverlesss offline start
+serverless offline start
 ```
 
 You can then visit the following URL in your browser to test the response:
