@@ -4,7 +4,7 @@ frameworkVersion: "^3"
 
 provider:
   name: aws
-  runtime: nodejs18.x
+  runtime: nodejs20.x
   memorySize: 128
   timeout: 60
   stage: dev
